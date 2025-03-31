@@ -19,3 +19,12 @@ Fatores Adicionais: Profissão, Grau, Estresse Financeiro, Histórico Familiar d
 # Variável Alvo:
 
 Depression_Status: Um indicador binário (0/1 ou Sim/Não) que denota se um aluno está passando por depressão
+
+# Objetivos:
+Uso e aplicações potenciais são:
+
+Pesquisa acadêmica: explore correlações entre pressões acadêmicas e tendências de saúde mental.
+
+Projetos de ciência de dados: crie modelos preditivos para identificar alunos em risco com base em vários indicadores.
+
+Elaboração de políticas: informe o desenvolvimento de programas de suporte à saúde mental direcionados dentro de instituições acadêmicas.

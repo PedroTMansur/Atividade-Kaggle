@@ -16,6 +16,6 @@ Estilo de Vida e Bem-Estar: Duração do Sono, Hábitos Alimentares, Pressão no
 
 Fatores Adicionais: Profissão, Grau, Estresse Financeiro, Histórico Familiar de Doença Mental e se o aluno já teve pensamentos suicidas
 
-Variável Alvo:
+# Variável Alvo:
 
 Depression_Status: Um indicador binário (0/1 ou Sim/Não) que denota se um aluno está passando por depressão

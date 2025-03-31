@@ -1,11 +1,11 @@
 # Atividade-Kaggle
 
-# Base de Dados Escolhida: Depressão de Estudantes
+# 1. Base de Dados Escolhida: Depressão de Estudantes
 
-# Característica:
+# 2.1 Característica:
 Este conjunto de dados compila uma ampla gama de informações voltadas para a compreensão, análise e previsão de níveis de depressão entre estudantes. Ele é projetado para pesquisa em psicologia, ciência de dados e educação, fornecendo insights sobre fatores que contribuem para os desafios de saúde mental dos estudantes e auxiliando no design de estratégias de intervenção precoce.
 
-# Variáveis:
+# 2.2 Variáveis:
 ID: Identificador exclusivo para cada aluno
 
 Demografia: Idade, Gênero, Cidade
@@ -20,7 +20,7 @@ Fatores Adicionais: Profissão, Grau, Estresse Financeiro, Histórico Familiar d
 
 Depression_Status: Um indicador binário (0/1 ou Sim/Não) que denota se um aluno está passando por depressão
 
-# Objetivos:
+# 2.3 Objetivos:
 
 Pesquisa acadêmica: Explorar correlações entre pressões acadêmicas e tendências de saúde mental.
 
